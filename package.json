@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "leaflet.legend",
+  "version": "1.0.0",
+  "description": "Leaflet.Legend is a plugin for Leaflet that display legend symbols and toggle overlays.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmgreensolutions/Leaflet.Legend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmgreensolutions/Leaflet.Legend/issues"
+  },
+  "homepage": "https://github.com/tmgreensolutions/Leaflet.Legend#readme",
+  "devDependencies": {
+    "leaflet": "^1.7.1"
+  }
+}
